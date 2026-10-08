@@ -4,7 +4,7 @@ Minimal asynchronous CL web server
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/inaimathi/house.git   |
-| commit  | ada46c6  |
+| commit  | 22a97c0  |
 | systems | house |
 |---------+-------------------------------------------|
 
